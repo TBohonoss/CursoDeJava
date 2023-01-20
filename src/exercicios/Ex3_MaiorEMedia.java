@@ -27,6 +27,5 @@ public class Ex3_MaiorEMedia {
 
         System.out.println("Maior número: " + maior);
         System.out.println("Média: " + (soma/count));
-
     }
 }
