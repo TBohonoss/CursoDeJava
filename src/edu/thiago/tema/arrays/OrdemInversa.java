@@ -1,4 +1,4 @@
-package edu.thiago.tema.estruturaderepeticaoarrays;
+package edu.thiago.tema.arrays;
 /*
 Crie um vetor de 6 número inteiros
 e mostre-os na ordem inversa.
