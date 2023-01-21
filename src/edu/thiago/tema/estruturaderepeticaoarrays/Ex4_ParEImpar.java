@@ -1,4 +1,4 @@
-package exercicios;
+package edu.thiago.tema.estruturaderepeticaoarrays;
 
 import java.util.Scanner;
 /*

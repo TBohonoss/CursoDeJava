@@ -1,3 +1,5 @@
+package edu.thiago.tema.operadoreslogicos;
+
 public class OperadoresLogicos {
     public static void main(String[] args) {
 
