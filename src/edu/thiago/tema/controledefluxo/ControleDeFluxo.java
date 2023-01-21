@@ -1,4 +1,4 @@
-package edu.thiago.tema.controlefluxo;
+package edu.thiago.tema.controledefluxo;
 
 public class ControleDeFluxo {
     public static void main(String[] args) {
