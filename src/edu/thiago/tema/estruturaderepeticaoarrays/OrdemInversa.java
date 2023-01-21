@@ -3,7 +3,7 @@ package edu.thiago.tema.estruturaderepeticaoarrays;
 Crie um vetor de 6 número inteiros
 e mostre-os na ordem inversa.
  */
-public class Ex7_OrdemInversa {
+public class OrdemInversa {
     public static void main(String[] args) {
 
         int[] vetor = {-5, -6, 15, 50, 8, 4};

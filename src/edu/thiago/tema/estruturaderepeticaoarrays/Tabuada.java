@@ -14,7 +14,7 @@ Tabuada de 5:
 ...
 5 x 10 = 10
  */
-public class Ex5_Tabuada {
+public class Tabuada {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
