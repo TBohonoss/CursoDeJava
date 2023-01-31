@@ -1,7 +1,5 @@
 package edu.thiago.tema.interfaces;
 
-import java.sql.SQLOutput;
-
 public class Calculadora implements OperacaoMatematica {
 
     @Override
