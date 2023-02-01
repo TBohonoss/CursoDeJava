@@ -5,7 +5,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
-
 /*
 Dadas as seguintes informações sobre meus gatos, crie uma lista
 e ordene está lista exibindo:
