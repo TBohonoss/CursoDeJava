@@ -1,4 +1,4 @@
-package edu.thiago.tema.orientacaoobjetos;
+package edu.thiago.tema.orientacaoObjetos;
 
 public class Carro {
 

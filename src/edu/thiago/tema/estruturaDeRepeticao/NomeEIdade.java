@@ -1,4 +1,4 @@
-package edu.thiago.tema.estruturaderepeticao;
+package edu.thiago.tema.estruturaDeRepeticao;
 
 import java.util.Scanner;
 
